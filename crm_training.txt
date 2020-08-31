@@ -1,0 +1,13 @@
+case: 8000294897
+
+For CRM Account Creation please select the following: 
+Area - SAP CRM 
+Product- Select STAR or Case 
+Topic- Access/Authorization 
+Excluding the time it takes for the new user to complete the training lab, expect a 48 hour turn-around to get an account. 
+Please include your Name and Email ID in the Detailed Description. 
+
+NOTE: Contractors need manager approval prior to receiving CRM access. 
+A reply to your CCT provides a link to detailed training requirements. After you have completed the training requirements for your job role, your CRM production account is created. 
+
+	
